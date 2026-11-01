@@ -1,12 +1,9 @@
+public class HelloWorld{
+    system.out.print("COURSE CODE: COS 201")
+    system.out.print("COURSE TITLE: Computer programming")
+    system.out.print("PROGRAMME: COMPUTER Science")
+    system.out.print("Week: 2")
+    system.out.print("Topic: Development Enviroment and java ")
+    system.out.print("GOAL: To learn how to write java programs")
 
-
-
-public class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("Hello world My name is Sultan");
-        System.out.println("I am a student of Caleb University");
-        System.out.println("I code for fun i guess");
-        System.out.println("I am 18 years old");
-        System.out.println("My dream is to make a lot of Money!!!!!");
-    }
 }
